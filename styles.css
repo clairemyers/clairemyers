@@ -1,8 +1,17 @@
+html {
+  background-color: #FEB470
+}
+
+/* color for main heading */
 h1 {
   color: #3498DB;
   font-family: fantasy;
 }
+
+ /* color for other text */
 h2 {
   color: #F1C40F;
   font-family: serif;
 }
+
+#gift-link
